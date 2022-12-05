@@ -1,6 +1,6 @@
 # Desafio de projeto sobre Git/GitHub
 
-Repositório para demonstrar meu progresso na DIO.
+Olá! Esté é um repositório para demonstrar meu progresso na DIO.
 
 ## Meus Desafios de Projeto:
 *Um pouco vazio...*
